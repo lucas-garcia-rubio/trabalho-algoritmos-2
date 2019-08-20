@@ -1,4 +1,4 @@
-# trabalho-algoritmos-2
+# Trabalho Algoritmos 2
 Trabalho final da disciplina de Algoritmos e Estruturas de Dados 2
 
 O arquivo em questão refere-se ao trabalho final da disciplina de Algoritmos e Estruturas de Dados 2.
